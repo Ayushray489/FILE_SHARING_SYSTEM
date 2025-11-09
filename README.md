@@ -144,8 +144,8 @@ Mon Nov  3 21:01:23 2025
 ## 👤 Author
 **Debashish Rout**  
 Developed under **Wipro TalentNext Capstone Project 2025**  
-📧 debasishdr451@example.com  
-🔗 [GitHub Profile](https://github.com/Debashish-DR)
+📧 ayushray489@gmail.com
+🔗 [GitHub Profile](https://github.com/Ayushray489)
 
 ---
 
@@ -163,3 +163,4 @@ You can add these just below the title for a professional look:
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Final%20Submission-success)
 ```
+
